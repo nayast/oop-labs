@@ -1,0 +1,16 @@
+[INFO] [2025.12.04 10:53:14] Application started successfully
+[INFO] [2025.12.04 10:53:14] User logged in
+[INFO] [2025.12.04 10:53:14] Connection success
+[WARN] [2025.12.04 10:53:14] Low disk space warning
+[WARN] [2025.12.04 10:53:14] Connection timeout
+[ERROR] [2025.12.04 10:53:14] Database connection failed
+[ERROR] [2025.12.04 10:53:14] Critical ERROR in module X
+[ERROR] [2025.12.04 10:53:14] System crash occurred
+[INFO] [2025.12.04 11:02:43] Application started successfully
+[INFO] [2025.12.04 11:02:43] User logged in
+[INFO] [2025.12.04 11:02:43] Connection success
+[WARN] [2025.12.04 11:02:43] Low disk space warning
+[WARN] [2025.12.04 11:02:43] Connection timeout
+[ERROR] [2025.12.04 11:02:43] Database connection failed
+[ERROR] [2025.12.04 11:02:43] Critical ERROR in module X
+[ERROR] [2025.12.04 11:02:43] System crash occurred
