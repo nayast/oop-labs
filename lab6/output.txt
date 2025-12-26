@@ -1,0 +1,34 @@
+a
+a
+b
+ab
+c
+abc
+undo
+ab
+undo
+a
+redo
+ab
+ctrl++
+abvolume increased +20%
+ctrl+-
+abvolume increased +20%
+volume decreased -20%
+ctrl+p
+abvolume increased +20%
+volume decreased -20%
+media player launched
+d
+abvolume increased +20%
+volume decreased -20%
+media player launched
+d
+undo
+abvolume increased +20%
+volume decreased -20%
+media player launched
+undo
+abvolume increased +20%
+volume decreased -20%
+media player launched
